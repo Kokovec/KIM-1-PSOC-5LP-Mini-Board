@@ -18,6 +18,6 @@ Changes were made to a few lines of the KIM-1 startup code in the 6530-002 ROM:
        ;BMI   DET1      		;START BIT TEST
         LDA   #$FC
 
-SBASM was used to create the new ROM file.
+The SB-Assembler was used to create the new ROM file: https://www.sbprojects.net/sbasm/
 
 The ROM data is included within the PSOC5 LP firmware and is only here for reference.
