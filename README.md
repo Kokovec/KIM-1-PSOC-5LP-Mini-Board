@@ -4,7 +4,7 @@ A KIM-1 system built around a Cypress PSOC 5LP (Schmartboard PSOC 5LP Dev Board)
 ## Description: ##
 This is a KIM-1 system clone that includes code (firmware), schematics and PCB.
 It's designed to run most of the programs that can be found in The First Book of KIM.
-This KIM-1 clone emulates a 6502 and faithfully runs the original firmware.
+This KIM-1 clone emulates a 6502 and runs on the original firmware.
 This KIM-1 board has somewhat reduced functionality as is doesn't include I/O or a tape interface.
 It uses a touchscreen inteface instead of a matrix keypad.
 
