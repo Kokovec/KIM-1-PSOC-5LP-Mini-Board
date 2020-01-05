@@ -20,3 +20,12 @@ https://www.amazon.com/gp/product/B01N5DIZQG/ref=ppx_yo_dt_b_asin_title_o01_s00?
 Transparent Clear Acrylic Case for Nextion Enhanced 3.2 inch NX4024K032 UART HMI TFT LCD Resistive Touch Display Screen WIshioT
 https://www.amazon.com/gp/product/B079M736LG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 
+DSD TECH USB to TTL Serial Adapter with FTDI FT232RL Chip Compatible with Windows 10, 8, 7 and Mac OS X
+https://www.amazon.com/gp/product/B07BBPX8B8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+MakerFocus 3.2 Inch TFT LCD Touch Screen with 16MB Flash, Arduino Touch Screen Display Human Machine Interface HMI Screen 3.2'' Touch Display Generic Nextion Enhanced nx4024k032
+https://www.amazon.com/gp/product/B01LAG13DA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+
+BOJACK 1K Ohm Resistors 1/2 W ±5% Carbon Film Single Resistor (Pack of 200 pcs)
+https://www.amazon.com/gp/product/B07PFFDVST/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+
