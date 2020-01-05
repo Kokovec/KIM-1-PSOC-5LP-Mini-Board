@@ -29,3 +29,9 @@ https://www.amazon.com/gp/product/B01LAG13DA/ref=ppx_yo_dt_b_asin_title_o09_s00?
 BOJACK 1K Ohm Resistors 1/2 W ±5% Carbon Film Single Resistor (Pack of 200 pcs)
 https://www.amazon.com/gp/product/B07PFFDVST/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 
+microtivity IS112 7-Segment LED Display, 1 Digit Red Common Anode (Pack of 4)
+https://www.amazon.com/gp/product/B004S9CXNQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+uxcell 200 Pcs 1206 1K Ohm 1/4Watt Thin Film SMD SMT Chip Resistors Strip
+https://www.amazon.com/gp/product/B014SPIHF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
