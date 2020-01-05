@@ -1,4 +1,4 @@
-# KIM-1-PSOC5-LP-Mini-Board
+# KIM-1-PSOC-5LP-Mini-Board
 A KIM-1 system built around a Cypress PSOC5 LP (Schmartboard PSOC 5LP Dev Board)
 
 ## Description: ##
