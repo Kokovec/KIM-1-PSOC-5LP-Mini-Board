@@ -35,3 +35,5 @@ https://www.amazon.com/gp/product/B004S9CXNQ/ref=ppx_yo_dt_b_search_asin_title?i
 uxcell 200 Pcs 1206 1K Ohm 1/4Watt Thin Film SMD SMT Chip Resistors Strip
 https://www.amazon.com/gp/product/B014SPIHF2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+UL Listed] Chanzon 12V 2A 24W AC DC Switching Power Supply Adapter (Input 100-240V, Output 12 Volt 2 Amp) Wall Wart Transformer Charger for DC12V CCTV Camera LED Strip Light (6Ft Cord, 24 Watt Max)
+https://www.amazon.com/gp/product/B07HNL5D56/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
