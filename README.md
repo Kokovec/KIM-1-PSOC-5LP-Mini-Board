@@ -21,6 +21,3 @@ This KIM-1 clone includes:
   * Non-amplified audio out (for the program Music Box)
   * TTL serial input (terminal keyboard / loading programs)
   * Touchscreen interface (Nextion Enhanced NX4024K032)
-
-## Software: ##
-All emulation is done on the PSOC5 LP which is running at 60MHz.
