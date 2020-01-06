@@ -1,0 +1,25 @@
+G04*
+G04 Format:               Gerber RS-274X*
+G04 Export Settings:      (custom)*
+G04 Layer:                BottomSolderPaste*
+G04 This File Name:       EP00012232.gbp*
+G04 Source File Name:     EP00012232.rrb*
+G04 Part Number:          KIM1KEYBOARD*
+G04 Revision:             1*
+G04 Unique ID:            0454f806-1144-4a33-8ea9-d41686c09063*
+G04 Generated Date:       Monday, 06 January 2020 11:52:52*
+G04*
+G04 Created Using:        ExpressPCB Plus v2.0.0*
+G04 Software Contact:     http://www.expresspcb.com/support*
+G04 License Number:       1104*
+G04*
+G04 Zero Suppression:     Leading*
+G04 Number Precision:     2.4*
+G04*
+G04 Polarity:             Positive. Dark is for paste (cut out to make stencil). Clear space is metal or kapton.*
+G04*
+%FSLAX24Y24*%
+%MOIN*%
+%LNBottomSolderPaste*%
+%ADD10R,.007X.007*%
+M02*

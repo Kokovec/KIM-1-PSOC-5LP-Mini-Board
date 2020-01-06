@@ -1,0 +1,25 @@
+Ref,Part Name,X,Y,Rotation,Side
+J00,2.1 mm barrel jack PJ-202A,4.2083,11.9845,180.0,Top
+U01,7-Segment Display,15.2400,52.0700,0.0,Top
+U02,7-Segment Display,27.9400,52.0700,0.0,Top
+U03,7-Segment Display,40.6400,52.0700,0.0,Top
+U04,7-Segment Display,53.3400,52.0700,0.0,Top
+U05,7-Segment Display,68.5800,52.0700,0.0,Top
+U06,7-Segment Display,81.2800,52.0700,0.0,Top
+J00,Aike Audio Connector,4.6350,25.6850,180.0,Top
+C00,Capacitor 0.1 in,13.9700,22.2250,270.0,Top
+R00,Resistor 1/4 W (0.35 in),10.7950,39.3700,180.0,Top
+R00,Resistor 1/4 W (0.35 in),23.4950,39.3700,0.0,Top
+R00,Resistor 1/4 W (0.35 in),35.5600,39.3700,0.0,Top
+R00,Resistor 1/4 W (0.35 in),60.3250,39.3700,0.0,Top
+R00,Resistor 1/4 W (0.35 in),48.2600,39.3700,0.0,Top
+R00,Resistor 1/4 W (0.35 in),85.0900,39.3700,0.0,Top
+R00,Resistor 1/4 W (0.35 in),72.3900,39.3700,0.0,Top
+U00,Schmartboard PSOC,59.6900,16.5418,0.0,Top
+J00,Single Inline (SIP) 2-pin,15.2400,27.3050,90.0,Top
+Q00,SOT23-3,70.8050,16.0450,270.0,Top
+Q00,SOT23-3,74.6150,16.0450,270.0,Top
+Q00,SOT23-3,78.4250,16.0450,270.0,Top
+Q00,SOT23-3,82.2350,13.5050,270.0,Top
+Q00,SOT23-3,86.0450,13.5050,270.0,Top
+Q00,SOT23-3,89.8500,13.5050,270.0,Top
