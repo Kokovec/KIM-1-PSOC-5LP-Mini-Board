@@ -4,7 +4,7 @@ The binary files should be in the following format: [4 byte Header][programa dat
 
 The 4 byte header is simply the start and end addresses where the program data will be loaded.
 
-The end address is the address where the last byte of indormation will be stored.
+The end address is where the last byte of information will be stored.
 
 From the serial terminal type "~" (without quotes) and use a serial transfer program to send the raw binary data to the KIM-1.
 
