@@ -13,4 +13,4 @@ If the transfer hangs (due to lack of bytes) a reboot is required.
 Keep in mind that there's no support for protocol based serial transfers (Kermit, XMODEM, etc).
 The data must be transfered byte by byte with no handshaking.
 
-Note: TealTerm can be used to transfer programs to the KIM-1 system although it makes for a lousy terminal emulator.
+Note: RealTerm can be used to transfer programs to the KIM-1 system although it makes for a lousy terminal emulator.
